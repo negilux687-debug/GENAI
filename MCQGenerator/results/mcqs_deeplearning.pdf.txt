@@ -1,0 +1,69 @@
+Here are 6 multiple-choice questions based on the study material provided:
+
+---
+
+## MCQ
+
+Question: What is the primary reason for using zero-padding in convolutional neural networks?
+
+A) To reduce the spatial dimensions of the input image.
+B) To increase the spatial dimensions of the output feature map.
+C) To maintain the spatial dimensions of the input image in the feature map.
+D) To randomly add noise to the input image.
+
+Correct Answer: **C) To maintain the spatial dimensions of the input image in the feature map.**
+
+---
+
+Question: Which of the following best describes the purpose of the LSTM (Long Short-Term Memory) unit in a neural network?
+
+A) To reduce the number of parameters in the network.
+B) To handle vanishing gradient problems in recurrent neural networks.
+C) To perform convolution operations on images.
+D) To apply non-linear transformations to the input data.
+
+Correct Answer: **B) To handle vanishing gradient problems in recurrent neural networks.**
+
+---
+
+Question: What is the primary advantage of using convolutional layers in a neural network for image processing?
+
+A) They reduce the number of layers in the network.
+B) They ensure that all neurons in a layer are connected to every neuron in the next layer.
+C) They capture spatial correlations in the input data, reducing the number of parameters.
+D) They allow the network to process variable-length input sequences.
+
+Correct Answer: **C) They capture spatial correlations in the input data, reducing the number of parameters.**
+
+---
+
+Question: What does the term "pooling layer" refer to in a convolutional neural network?
+
+A) A layer that increases the depth of the feature maps.
+B) A layer that reduces the spatial dimensions of the feature maps while preserving important information.
+C) A layer that applies convolutional filters to the input image.
+D) A layer that performs non-linear activation functions on the feature maps.
+
+Correct Answer: **B) A layer that reduces the spatial dimensions of the feature maps while preserving important information.**
+
+---
+
+Question: Which of the following optimizers is specifically designed to adapt the learning rate during training?
+
+A) Gradient Descent
+B) Stochastic Gradient Descent (SGD)
+C) Adam
+D) Backpropagation
+
+Correct Answer: **C) Adam**
+
+---
+
+Question: What is the primary function of the "forget gate" in an LSTM unit?
+
+A) To determine which new information from the input should be added to the cell state.
+B) To decide which information from the cell state should be forgotten or retained.
+C) To generate the final output of the LSTM unit.
+D) To apply non-linear activation functions to the input data.
+
+Correct Answer: **B) To decide which information from the cell state should be forgotten or retained.**
